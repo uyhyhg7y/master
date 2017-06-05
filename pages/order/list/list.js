@@ -1,4 +1,5 @@
 const AV = require('../../../utils/av-weapp.js')
+const utils = require('../../../utils/utils.js')
 Page({
 	data: {
 		orders: [],
@@ -37,6 +38,7 @@ Page({
 		query.equalTo('status', this.data.status);
 		query.descending('createdAt');
 		query.find().then(function (orderObjects) {
+			orderObjects = utils.dateFormat(orderObjects);
 			that.setData({
 				orders: orderObjects
 			});

@@ -161,7 +161,7 @@ Page({
 		query.descending("updatedAt");
 		query.find().then(function (donateObjects) {
 			that.setData({
-				donateObjects: utils.dateFormat(donateObjects)
+				donateObjects: utils.dateFormat(donateObjects, 'l')
 			});
 		});
 	}
