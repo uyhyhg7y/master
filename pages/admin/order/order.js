@@ -81,5 +81,13 @@ Page({
 		wx.navigateTo({
 			url: '../../goods/detail/detail?objectId=' + objectId
 		});
+	},
+	send: function (e) {
+		var objectId = e.currentTarget.dataset.objectId;
+		var params = {objectId: objectId};
+		AV.Cloud.run('send', params).then(function(response) {
+			response = JSON.parse(response);
+			console.log(response);
+		});
 	}
 });

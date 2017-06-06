@@ -12,7 +12,7 @@ Page({
 	    /* debug navi */
 
 	    wx.navigateTo({
-	      url: "/pages/order/list/list?status=0"
+	      url: "/pages/admin/login/login"
 	    });
 
 	},
