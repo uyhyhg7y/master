@@ -1,4 +1,4 @@
-const moment = require('moment-with-locales.min.js');
+const moment = require('moment.min.js');
 // 导出模块
 module.exports = {
   dateFormat: function (objects, format) {
