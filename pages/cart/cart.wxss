@@ -60,6 +60,11 @@
 	font-size: 28rpx;
 	color: #444;
 	line-height: 38rpx;
+	overflow: hidden;  
+	text-overflow: ellipsis; 
+	display: -webkit-box;  
+	-webkit-line-clamp: 2;  
+	-webkit-box-orient: vertical; 
 }
 
 /*右下部分价格与数量*/
