@@ -5,8 +5,7 @@ const appKey = "xdv2nwjUK5waNglFoFXkQcxP";
 
 AV.init({ 
 	appId: appId, 
-	appKey: appKey,
-	masterKey: 'v3P5xzDa0b5CStO0xX0biHpT'
+	appKey: appKey
 });
 
 // 授权登录
