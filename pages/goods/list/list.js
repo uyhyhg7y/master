@@ -1,3 +1,12 @@
+/**
+ *
+ * 配套视频教程请移步微信->小程序->灵动云课堂
+ * 关注订阅号【huangxiujie85】，第一时间收到教程推送
+ *
+ * @link http://blog.it577.net
+ * @author 黄秀杰
+ */
+
 const AV = require('../../../utils/av-weapp.js')
 
 // 使用function初始化array，相比var initSubMenuDisplay = [] 既避免的引用复制的，同时方式更灵活，将来可以是多种方式实现，个数也不定的
