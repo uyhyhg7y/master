@@ -48,7 +48,8 @@ LeanCloud数据包下载：[https://pan.baidu.com/s/1nvPmcsx](https://pan.baidu.
 
 **您如果觉得灵动云商有用，可以扫下面二维码赞助我，谢谢。**
 
-![cash.jpg](http://upload-images.jianshu.io/upload_images/2599324-61c72b3f4d209360.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![cash.jpg](http://upload-images.jianshu.io/upload_images/2599324-5046ca83ff2c4e8d.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 用户 | 金额 | 日期
 --------  | ------ | --------
