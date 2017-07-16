@@ -46,6 +46,22 @@ LeanCloud数据包下载：[https://pan.baidu.com/s/1nvPmcsx](https://pan.baidu.
 
 后台源码：[https://git.oschina.net/dotton/lendoo-web](https://git.oschina.net/dotton/lendoo-web)
 
+**我目前全职做源码与教程写作，如果灵动云商帮助到您，请赞助一下，谢谢。**
+
+![cash.jpg](http://upload-images.jianshu.io/upload_images/2599324-5046ca83ff2c4e8d.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+用户 | 金额 | 日期
+--------  | ------ | --------
+大*山 | 1 | 	2017-07-04 
+小*爱 | 1 | 	2017-06-20
+背*时 | 1 | 	2017-05-23 
+Y*g | 10 | 	2017-05-09
+天*雪 | 1 | 	2017-04-27
+吕*谊 | 5 | 	2017-03-24
+
+
+还有在公众号赞赏与分答提问的用户，一并感谢。
+
 对移动开发有兴趣的朋友可以关注我的公众号【huangxiujie85】与我交流讨论。
 
 ![公众号](https://static.oschina.net/uploads/img/201610/07111145_qD6d.jpg "二维码")
